@@ -1,0 +1,5 @@
+Este es un archivo de muestra 
+
+Se va a probar la funcionalidad de Git
+
+Hoy es miercoles 22 de julio 2021
