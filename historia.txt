@@ -7,3 +7,5 @@ Hoy es miercoles 22 de julio 2021
 Estamos en el curso de GIT Y GITHUB
 
 Tengo que repasar nuevamente el curso de HTML y CSS
+
+En los proximos dias vamos a hacer un repaso rapido
